@@ -18,7 +18,7 @@ Forking the a repo is super easy. All you need to do is click the fork button at
 
 Bam! You have forked a repo! Congratulations. If all went well, you should see something like this at the top of the page:
 
-INSERT IMAGE
+![image](https://cloud.githubusercontent.com/assets/1364138/18131872/76cf3430-6f62-11e6-84b2-6ac7f920153e.png)
 
 The only difference is that your username should be displayed and not `b-stone`. I.e. you should see something like this, `YOURUSERNAME/lab01-Fixed`. 
 
